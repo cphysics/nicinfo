@@ -1,0 +1,2 @@
+# nicinfo
+Nature Inspired Computing
